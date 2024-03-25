@@ -1,0 +1,49 @@
+
+body {
+    
+    background-image: url("../img/barbie_background.png"); 
+    background-size: cover;
+    position: fixed;
+    width: 100vw;
+    margin-top: 0;
+    margin-left: 0;
+    background-color: deeppink;
+    
+}
+
+nav {
+
+    display: flex;
+    justify-content: space-around;
+    font-family: 'barbie';
+    color: deeppink;
+    font-size: 5rem;
+    text-decoration: none;
+    background-color: purple;
+    padding-top: 30px;
+    
+    
+    
+   
+}
+
+nav a {
+    text-decoration: none;
+    color: deeppink;
+}
+
+nav a:visited {
+    color: deeppink;
+}
+
+main{
+    
+    position:relative;
+    padding-top: 30px;
+    padding-left: 30px;
+
+}
+#barbiesitting{
+  
+  
+}
