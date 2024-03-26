@@ -1,3 +1,8 @@
+@font-face {
+font-family: Barbie;
+src: url(Barbie-font.ttf);
+}
+
 
 body {
     
@@ -15,7 +20,7 @@ nav {
 
     display: flex;
     justify-content: space-around;
-    font-family: 'barbie';
+    font-family: 'Barbie';
     color: deeppink;
     font-size: 5rem;
     text-decoration: none;
@@ -37,7 +42,7 @@ nav a:visited {
 }
 
 main{
-    
+
     position:relative;
     padding-top: 30px;
     padding-left: 30px;
